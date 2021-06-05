@@ -1,0 +1,10 @@
+./fr/ablanco/raytracing/Color.java
+./fr/ablanco/raytracing/JavaTga.java
+./fr/ablanco/raytracing/RayTracer.java
+./fr/ablanco/raytracing/Utils/Pair.java
+./fr/ablanco/raytracing/Utils/Vec3f.java
+./fr/ablanco/raytracing/_3Dobjects/Abstract3DObject.java
+./fr/ablanco/raytracing/_3Dobjects/LightingPoint.java
+./fr/ablanco/raytracing/_3Dobjects/Plane.java
+./fr/ablanco/raytracing/_3Dobjects/Sphere.java
+./fr/ablanco/raytracing/_3Dobjects/Triangle.java
